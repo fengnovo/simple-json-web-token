@@ -1,0 +1,19 @@
+{
+  "name": "simple-json-web-token",
+  "version": "1.0.0",
+  "description": "a simple json web token generator",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "keywords": [
+    "json-web-token",
+    "jwt"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fengnovo/simple-json-web-token.git"
+  },
+  "author": "fengnovo",
+  "license": "MIT"
+}
